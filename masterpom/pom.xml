@@ -25,6 +25,13 @@
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+            <groupId>selenium_2_53_1</groupId>
+            <artifactId>com.seleniumhq.selenium_2_53_1 </artifactId>
+            <version>2.53.1</version>
+            <scope>system</scope>
+            <systemPath>C:\Users\user\Documents\showboard\showboard.jar</systemPath>
+        </dependency>
 	</dependencies>
 	<build>
 		<plugins>
@@ -139,7 +146,7 @@
 					<aggregate>true</aggregate>
 					<show>private</show>
 				</configuration>
-			</plugin>
+			</plugin>		
 		</plugins>
 	</reporting>
 	<url>-</url>

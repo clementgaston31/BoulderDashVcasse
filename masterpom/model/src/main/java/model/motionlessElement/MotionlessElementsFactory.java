@@ -1,5 +1,5 @@
 package model.motionlessElement;
 
-public class MotionlessElementsFactory {
+public abstract class MotionlessElementsFactory {
 
 }
